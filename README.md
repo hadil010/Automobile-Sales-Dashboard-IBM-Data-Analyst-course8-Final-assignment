@@ -1,4 +1,4 @@
-# Automobile Sales Dashboard
+# Automobile Sales Dashboard - IBM - Data Visualization using python - course 8 - final assignment 
 
 ## Overview
 This project is a dashboard for visualizing automobile sales statistics. It provides insights into yearly statistics and recession period statistics.
